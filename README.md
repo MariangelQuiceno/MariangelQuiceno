@@ -1,4 +1,4 @@
- ![Mi Imagen](./FotosGit/6.png)
+ ![Mi Imagen](./FotosGit/7.png)
 
 <div align="center">
  
